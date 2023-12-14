@@ -16,7 +16,7 @@ def get_database_connection():
     # Create and return a postgresql database connection object
     return create_engine(f'postgresql+psycopg2://{db_user_name}:{db_password}@{host}:{port}/{db_name}')
 
-# Extraction from url
+# Extraction from url 
 def extract_data_from_url():
     url ='https://drive.google.com/file/d/1SzmRIwlpL5PrFuaUe_1TAcMV0HYHMD_b/view'
     file_id = url.split('/')[-2]
