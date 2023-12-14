@@ -49,4 +49,4 @@ Adhering to these guidelines will guide you in methodically using PostgreSQL for
 The `output` folder includes screenshots showcasing the results of the queries when they are executed in pgAdmin 4.
 
 ## Contribution
-Your contributions to improve and expand this project are greatly valued. You are encouraged to contribute by submitting pull requests, reporting issues, or offering feedback.
+Your contributions to improve and expand this project are greatly valued. You are encouraged to contribute by submitting pull requests or offering feedback.
